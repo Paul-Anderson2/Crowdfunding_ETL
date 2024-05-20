@@ -1,5 +1,5 @@
 
--- Code used to generate the ERD Diagram (quickdatbase.com)
+-- Code used to generate the ERD Diagram (quickdatabase.com)
 -- ERD Diagram for ETL Project 2
 
 Campaign    
