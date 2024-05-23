@@ -5,7 +5,10 @@ The original contacts.xlsx file had an error. Deleting row 3 seemed to fix the e
 
 Part 1 notes : Option 1, using Pandas to create the contacts DataFrame, was employed.                   
 Starter code for option 2 was deleted to avoid any confusion                          
-Code for this section in the ipynb file
+Code for this section in the ipynb file                          
+
+Part 2 : Schema and queries are in the two sql files. I also included an ERD and the code to generate it.              
+
 
 Resources in the 'resources folder' include :                          
 Two Excel files originally provided and used as raw data in the Jupyter notebook code                  
