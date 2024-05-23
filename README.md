@@ -12,4 +12,7 @@ Two Excel files originally provided and used as raw data in the Jupyter notebook
 Four csv files generated in the Jupyter Notebook code, transformed, and then used in the                 
 tables generated for the SQL database 'crowdfunding.db'                  
 
+In the 'screenshots' folder, there are screenshots for each of the tables in the SQL db,           
+demonstrating that the tables were properly formatted and populated with the data
+
 
